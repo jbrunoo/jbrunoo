@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=6pizz)](https://solved.ac/6pizz)
+
 <br/>
 <br/>
 
